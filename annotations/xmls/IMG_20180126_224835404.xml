@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>datasett</folder>
+	<filename>IMG_20180126_224835404.jpg</filename>
+	<path>C:\Users\halil\Desktop\datasett\IMG_20180126_224835404.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>20</ymin>
+			<xmax>218</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

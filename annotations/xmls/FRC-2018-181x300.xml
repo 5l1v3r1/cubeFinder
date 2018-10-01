@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>datasett</folder>
+	<filename>FRC-2018-181x300.jpg</filename>
+	<path>C:\Users\halil\Desktop\datasett\FRC-2018-181x300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>13</ymin>
+			<xmax>132</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>
