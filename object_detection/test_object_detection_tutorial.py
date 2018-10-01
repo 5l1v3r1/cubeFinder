@@ -91,7 +91,7 @@ detection_classes = detection_graph.get_tensor_by_name('detection_classes:0')
 # Number of objects detected
 num_detections = detection_graph.get_tensor_by_name('num_detections:0')
 
-train/
+# train/
 # Loop over the test images
 for image_path in TEST_IMAGE_PATHS:
     # Acquire frame and expand frame dimensions to have shape: [1, None, None, 3]
@@ -118,6 +118,7 @@ for image_path in TEST_IMAGE_PATHS:
 
     # All the results have been drawn on the frame, so it's time to display it.
     cv2.imshow('Image-{}'.format(image_path), frame)
+    cv2.imwrite('output/{}'.format(image_path), frame)
     end = time.time()
     print("Detected in: " + str((end - start)))
     # Press 'q' to quit
