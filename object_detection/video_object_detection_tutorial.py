@@ -91,8 +91,8 @@ detection_classes = detection_graph.get_tensor_by_name('detection_classes:0')
 num_detections = detection_graph.get_tensor_by_name('num_detections:0')
 
 # Open video file
-# video = cv2.VideoCapture(PATH_TO_VIDEO)
-video = cv2.VideoCapture(0)
+video = cv2.VideoCapture(PATH_TO_VIDEO)
+# video = cv2.VideoCapture(0)
 right = 1
 left = 0
 
