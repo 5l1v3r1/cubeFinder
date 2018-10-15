@@ -1,0 +1,1 @@
+set PYTHONPATH=C:\Users\tezerv\Desktop\theLastCubeBender;C:\Users\tezerv\Desktop\theLastCubeBender\slim
