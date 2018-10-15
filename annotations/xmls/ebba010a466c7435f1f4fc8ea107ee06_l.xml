@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>datasett</folder>
+	<folder>son_dataset</folder>
 	<filename>ebba010a466c7435f1f4fc8ea107ee06_l.jpg</filename>
-	<path>C:\Users\halil\Desktop\datasett\ebba010a466c7435f1f4fc8ea107ee06_l.jpg</path>
+	<path>C:\Users\halil\Desktop\son_dataset\ebba010a466c7435f1f4fc8ea107ee06_l.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>65</xmin>
-			<ymin>153</ymin>
+			<xmin>67</xmin>
+			<ymin>151</ymin>
 			<xmax>132</xmax>
 			<ymax>210</ymax>
 		</bndbox>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>174</xmin>
-			<ymin>152</ymin>
-			<xmax>241</xmax>
-			<ymax>213</ymax>
+			<xmin>173</xmin>
+			<ymin>149</ymin>
+			<xmax>240</xmax>
+			<ymax>211</ymax>
 		</bndbox>
 	</object>
 </annotation>

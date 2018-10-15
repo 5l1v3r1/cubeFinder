@@ -54,7 +54,7 @@ Run the following script to train the model:
 python object_detection/train.py \
         --logtostderr \
         --train_dir=train \
-        --pipeline_config_path=faster_rcnn_resnet101.config
+        --pipeline_config_path=ssd_mobilenet_v1.config
 ```
 
 ### 4) Export the Inference Graph
@@ -76,7 +76,7 @@ In order to use the model, you first need to convert the checkpoint files (`mode
 ```bash
 python object_detection/export_inference_graph.py \
         --input_type image_tensor \
-        --pipeline_config_path faster_rcnn_resnet101.config \
+        --pipeline_config_path ssd_mobilenet_v1.config \
         --trained_checkpoint_prefix model.ckpt-STEP_NUMBER \
         --output_directory output_inference_graph
 ```

@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>datasett</folder>
+	<folder>son_dataset</folder>
 	<filename>maxresdefault.jpg</filename>
-	<path>C:\Users\halil\Desktop\datasett\maxresdefault.jpg</path>
+	<path>C:\Users\halil\Desktop\son_dataset\maxresdefault.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>124</xmin>
-			<ymin>102</ymin>
-			<xmax>190</xmax>
-			<ymax>166</ymax>
+			<xmin>85</xmin>
+			<ymin>20</ymin>
+			<xmax>211</xmax>
+			<ymax>152</ymax>
 		</bndbox>
 	</object>
 </annotation>

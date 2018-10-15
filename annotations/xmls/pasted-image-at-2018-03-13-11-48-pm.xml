@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>son_dataset</folder>
+	<filename>pasted-image-at-2018-03-13-11-48-pm.jpg</filename>
+	<path>C:\Users\halil\Desktop\son_dataset\pasted-image-at-2018-03-13-11-48-pm.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>156</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>19</ymin>
+			<xmax>73</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

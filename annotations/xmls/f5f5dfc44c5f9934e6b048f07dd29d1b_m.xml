@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>son_dataset</folder>
+	<filename>f5f5dfc44c5f9934e6b048f07dd29d1b_m.jpg</filename>
+	<path>C:\Users\halil\Desktop\son_dataset\f5f5dfc44c5f9934e6b048f07dd29d1b_m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>288</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>151</ymin>
+			<xmax>118</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

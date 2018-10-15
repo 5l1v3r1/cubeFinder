@@ -1,0 +1,14 @@
+<annotation>
+	<folder>son_dataset</folder>
+	<filename>scene00361.jpg</filename>
+	<path>C:\Users\halil\Desktop\son_dataset\scene00361.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

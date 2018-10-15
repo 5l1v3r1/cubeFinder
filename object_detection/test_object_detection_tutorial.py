@@ -114,7 +114,7 @@ for image_path in TEST_IMAGE_PATHS:
         category_index,
         use_normalized_coordinates=True,
         line_thickness=8,
-        min_score_thresh=0.5)
+        min_score_thresh=0.2)
 
     # All the results have been drawn on the frame, so it's time to display it.
     cv2.imshow('Image-{}'.format(image_path), frame)
