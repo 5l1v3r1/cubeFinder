@@ -85,7 +85,7 @@ You should see a new `output_inference_graph` directory with a `frozen_inference
 Just run the following command:
 
 ```bash
-python object_detection/object_detection_runner.py
+python object_detection/video_object_detection_runner.py
 ```
 
 It will run your object detection model found at `output_inference_graph/frozen_inference_graph.pb` on all the images in the `test_images` directory and output the results in the `output/test_images` directory.
